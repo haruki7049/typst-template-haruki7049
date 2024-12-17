@@ -1,4 +1,3 @@
-
 #import "style/jcls.typ": *
 #import "style/bib_style.typ": *
 #show: bib_init
